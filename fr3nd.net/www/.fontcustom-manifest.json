@@ -1,0 +1,90 @@
+{
+  "checksum": {
+    "previous": "a14d30d7b679fb71d2f76d6564862e8ea6c6bcb5a0704cdb1e4c9fae71fc9ea7",
+    "current": "a14d30d7b679fb71d2f76d6564862e8ea6c6bcb5a0704cdb1e4c9fae71fc9ea7"
+  },
+  "fonts": [
+    "fontcustom/fontcustom.ttf",
+    "fontcustom/fontcustom.svg",
+    "fontcustom/fontcustom.woff",
+    "fontcustom/fontcustom.eot"
+  ],
+  "glyphs": {
+    "cloud": {
+      "codepoint": 61696,
+      "source": "./cloud.svg"
+    },
+    "delicious": {
+      "codepoint": 61697,
+      "source": "./delicious.svg"
+    },
+    "docker-white": {
+      "codepoint": 61698,
+      "source": "./docker-white.svg"
+    },
+    "facebook": {
+      "codepoint": 61699,
+      "source": "./facebook.svg"
+    },
+    "flickr": {
+      "codepoint": 61700,
+      "source": "./flickr.svg"
+    },
+    "github": {
+      "codepoint": 61701,
+      "source": "./github.svg"
+    },
+    "instagram": {
+      "codepoint": 61702,
+      "source": "./instagram.svg"
+    },
+    "lastfm": {
+      "codepoint": 61703,
+      "source": "./lastfm.svg"
+    },
+    "linkedin": {
+      "codepoint": 61704,
+      "source": "./linkedin.svg"
+    },
+    "twitter": {
+      "codepoint": 61705,
+      "source": "./twitter.svg"
+    },
+    "youtube": {
+      "codepoint": 61706,
+      "source": "./youtube.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "fontcustom",
+    "force": false,
+    "input": {
+      "templates": ".",
+      "vectors": "."
+    },
+    "no_hash": true,
+    "output": {
+      "css": "fontcustom",
+      "fonts": "fontcustom",
+      "preview": "fontcustom"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "templates": [
+      "css",
+      "preview"
+    ]
+  },
+  "templates": [
+    "fontcustom/fontcustom.css",
+    "fontcustom/fontcustom-preview.html"
+  ]
+}
