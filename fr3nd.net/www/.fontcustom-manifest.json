@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "a14d30d7b679fb71d2f76d6564862e8ea6c6bcb5a0704cdb1e4c9fae71fc9ea7",
-    "current": "a14d30d7b679fb71d2f76d6564862e8ea6c6bcb5a0704cdb1e4c9fae71fc9ea7"
+    "previous": "7df97e891d8e1cb6709e1078ded782ae83e8ba83c8cc7f992385f6ce77cbbe03",
+    "current": "7df97e891d8e1cb6709e1078ded782ae83e8ba83c8cc7f992385f6ce77cbbe03"
   },
   "fonts": [
     "fontcustom/fontcustom.ttf",
@@ -18,9 +18,9 @@
       "codepoint": 61697,
       "source": "./delicious.svg"
     },
-    "docker-white": {
+    "docker": {
       "codepoint": 61698,
-      "source": "./docker-white.svg"
+      "source": "./docker.svg"
     },
     "facebook": {
       "codepoint": 61699,

@@ -25,7 +25,7 @@
 [data-icon]:before,
 .icon-cloud:before,
 .icon-delicious:before,
-.icon-docker-white:before,
+.icon-docker:before,
 .icon-facebook:before,
 .icon-flickr:before,
 .icon-github:before,
@@ -50,7 +50,7 @@
 
 .icon-cloud:before { content: "\f100"; }
 .icon-delicious:before { content: "\f101"; }
-.icon-docker-white:before { content: "\f102"; }
+.icon-docker:before { content: "\f102"; }
 .icon-facebook:before { content: "\f103"; }
 .icon-flickr:before { content: "\f104"; }
 .icon-github:before { content: "\f105"; }
